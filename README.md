@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Parmar</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/rahulparmarrp](https://github.com/rahulparmarrp)
+- 👨‍💻 All of my projects are available at https://github.com/rahulparmarrp
 
 - 💬 Ask me about **React.js, Javascript**
 
